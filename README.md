@@ -46,6 +46,8 @@
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/python-000?logo=python&logoColor=white&style=for-the-badge" height="40" alt="svelte logo"  />
 </div>
 
 ###

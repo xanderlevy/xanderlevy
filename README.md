@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
   <img width="12" />
